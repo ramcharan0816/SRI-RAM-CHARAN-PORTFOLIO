@@ -1,0 +1,18 @@
+RENDER DEPLOYMENT SETTINGS
+
+Root Directory:
+portfolio-all
+
+Dockerfile Path:
+Dockerfile
+
+Docker Build Context Directory:
+.
+
+Docker Command:
+Leave empty
+
+The Dockerfile expects a Node/Next.js project with:
+- package.json
+- npm run build
+- npm start
